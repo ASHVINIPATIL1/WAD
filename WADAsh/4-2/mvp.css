@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+    background-color: aliceblue;
+    padding: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.headline{
+    font-family: sans-serif;
+    background-color: antiquewhite;
+    padding: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
